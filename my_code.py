@@ -20,8 +20,8 @@ def age_50(q):
 
 
 if __name__ == '__main__':
-
-    age = 17    # change this number to your current age
+    a= int(input("How old are you? "))
+    age = a    # change this number to your current age
 
     '''
     after you have this working by defining "age" above, you can comment that line out and add a new line
